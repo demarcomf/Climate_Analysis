@@ -15,5 +15,5 @@ Determine the viability of investing in a Surf Shop utilizing weather data from 
 - Similar to the June distribution, December demonstrated low levels of variance in the temperatures which shows a promising consistency for a surf business.
 - With the low temperature hitting aroud 56 degrees, there might be some folks who won't be customers on those days, but is to be expected in a weather impacted business model.
 
-https://github.com/demarcomf/Climate_Analysis/blob/main/December%20Weather%20Stats.PNG
+![alt text](https://github.com/demarcomf/Climate_Analysis/blob/main/December%20Weather%20Stats.PNG)
 
