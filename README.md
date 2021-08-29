@@ -14,5 +14,6 @@ Determine the viability of investing in a Surf Shop utilizing weather data from 
 - Oahu does not really experience a true winter with temperatures averaging out at 71 degrees. That is Spring weather in most areas. SURFS UP!
 - Similar to the June distribution, December demonstrated low levels of variance in the temperatures which shows a promising consistency for a surf business.
 - With the low temperature hitting aroud 56 degrees, there might be some folks who won't be customers on those days, but is to be expected in a weather impacted business model.
-[!image]https://github.com/demarcomf/Climate_Analysis/blob/main/December%20Weather%20Stats.PNG
+
+https://github.com/demarcomf/Climate_Analysis/blob/main/December%20Weather%20Stats.PNG
 
