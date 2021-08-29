@@ -19,3 +19,6 @@ Determine the viability of investing in a Surf Shop utilizing weather data from 
 
 ![alt text](https://github.com/demarcomf/Climate_Analysis/blob/main/December%20Weather%20Stats.PNG)
 
+## Summary
+With weather being extremely consistent in Oahu, opening a surf shop is a great idea. Other factors to consider would be how many shops currently exist in this area since that seems more impactful than a consistent weather trend. Data parameters should include the estimate total population of surfers and the amount of shops already in existence. This would show any risks with a surplus/scarcity of competition.
+
