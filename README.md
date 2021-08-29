@@ -10,6 +10,8 @@ Determine the viability of investing in a Surf Shop utilizing weather data from 
 - Standard deviation was only 3.25 which indicates a level of confidence in this assessment
 - Minimum temperature for the month of June was 64 degrees which is basically a cool spring day. Pretty sure that would feel great in a wet suit!
 
+![alt text](https://github.com/demarcomf/Climate_Analysis/blob/main/June%20Weather%20Stats.PNG)
+
 ### December Weather
 - Oahu does not really experience a true winter with temperatures averaging out at 71 degrees. That is Spring weather in most areas. SURFS UP!
 - Similar to the June distribution, December demonstrated low levels of variance in the temperatures which shows a promising consistency for a surf business.
